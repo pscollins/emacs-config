@@ -1,0 +1,1 @@
+For easy access to my emacs configuration. Currently mostly directed towards C.
